@@ -2,5 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java-spring-course-mvc-data-JPA" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java-spring-course-mvc-thymeleaf-jpa-security" vcs="Git" />
   </component>
 </project>

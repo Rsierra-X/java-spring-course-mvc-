@@ -2,3 +2,7 @@
 	path = java-spring-course-mvc-thymeleaf-jpa-security
 	url = https://github.com/Rsierra-X/java-spring-course-mvc-thymeleaf-jpa-security.git
 	branch = main
+[submodule "java-spring-course-mvc-data-JPA"]
+	path = java-spring-course-mvc-data-JPA
+	url = https://github.com/Rsierra-X/java-spring-course-mvc-data-JPA.git
+	branch = main
